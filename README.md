@@ -1,9 +1,15 @@
 # 🎮 Direct Games Br
 
-![Downloads](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/Direct-Games-Br/total?label=Downloads&logo=github&color=green)
+[![Downloads nas Releases](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/Direct-Games-Br/total?label=Downloads%20nas%20Releases&logo=github&color=green&style=for-the-badge)](https://github.com/CrazyForAndroidBRDEV/Direct-Games-Br/releases)
 ![Android](https://img.shields.io/badge/Android-8.0%2B-green?logo=android&color=green)
 ![Arquitetura](https://img.shields.io/badge/Arquitetura-arm64--v8a-blue)
 ![Licença](https://img.shields.io/badge/Licença-Gratuito-orange)
+
+---
+
+📥 **Downloads:** o contador acima soma apenas os downloads dos APKs publicados na aba [Releases](https://github.com/CrazyForAndroidBRDEV/Direct-Games-Br/releases). Para que o download seja contabilizado, baixe o APK por esse link — downloads do arquivo colocado diretamente na página principal do repositório não entram na métrica do GitHub.
+
+⬇️ **[Baixar a versão mais recente](https://github.com/CrazyForAndroidBRDEV/Direct-Games-Br/releases/latest)**
 
 ---
 
